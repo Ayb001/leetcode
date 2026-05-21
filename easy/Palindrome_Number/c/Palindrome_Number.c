@@ -2,7 +2,7 @@
 #include <stdbool.h>
 bool isPalindrome(int x) 
 {
-    int answer=0;
+    long long answer=0;
     int tmp=x;
     while(tmp>0)
     {
